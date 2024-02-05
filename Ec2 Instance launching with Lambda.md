@@ -67,26 +67,24 @@ In the Timeout set seconds as 6 and then click on the Save button.
 ### Task 3: Configure a Test Event
 3.1 Click on the Test button.
 
-In Configure test event page,
+* In Configure test event page, Give Event Name: Enter EC2
 
-Event Name: Enter EC2
+* Leave other fields as default.
 
-Leave other fields as default.
-
-Click on Save button
+* Click on Save button
 
 ![image](https://github.com/Asma09Akram/Launching-EC2-Instance-with-Lambda/assets/124654068/dedc1c05-fb19-41b7-8693-fffc3f15d30c)
 
 
 ### Task 4: Provision an EC2 Instance using a Lambda Function
 
-Once the EC2 is configured, we can trigger the lambda manually using this simple test.
+* Once the EC2 is configured, we can trigger the lambda manually using this simple test.
 
-Click on the Test button. 
+* Click on the Test button. 
 
-The lambda function now gets executed and an EC2 instance will be provisioned.
+* The lambda function now gets executed and an EC2 instance will be provisioned.
 
-Once it's completed, you will be seeing a success message similar to the example shown below. It will display details such as:
+* Once it's completed, you will be seeing a success message similar to the example shown below. It will display details such as:
 
 Duration : Lambda execution time.
 
