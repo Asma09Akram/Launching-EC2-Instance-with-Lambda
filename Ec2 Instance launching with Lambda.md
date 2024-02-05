@@ -86,21 +86,15 @@ In the Timeout set seconds as 6 and then click on the Save button.
 
 * Once it's completed, you will be seeing a success message similar to the example shown below. It will display details such as:
 
-Duration : Lambda execution time.
-
-Log Output: Details of the EC2 instance provisioned.
-
-etc...
-
 ![image](https://github.com/Asma09Akram/Launching-EC2-Instance-with-Lambda/assets/124654068/08d7a761-e2b4-44b6-bc62-2b1b87e30ee6)
 
 
 ### Task 5: Check that the EC2 instance launched successfully
 
-Navigate to the EC2 page from the services menu.
+* Go to the EC2 page from the services menu.
 
-Go to Instances in the left menu.
+* Go to Instances in the left menu.
 
-Please wait until the ec2 instance is in a running state
+* Please wait until the ec2 instance is in a running state
 
 ![image](https://github.com/Asma09Akram/Launching-EC2-Instance-with-Lambda/assets/124654068/4d0a51aa-406b-4048-b21d-64187971b03c)
