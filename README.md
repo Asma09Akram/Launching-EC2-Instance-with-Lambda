@@ -10,7 +10,7 @@ The architecture diagram of this tutorial is given below.
 
 ![EC2 Basics](https://github.com/Asma09Akram/Launching-EC2-Instance-with-Lambda/assets/124654068/e5fc8696-7397-477b-8d57-e90f89d81406)
 
-Here in this tutorial we learn how we launch an EC2 instance using AWS Lambda.
+Here in this tutorial we learn how we can launch an EC2 instance using AWS Lambda.
 
 Prerequisities:
 * Create an IAM Role with any name and give EC2 full access to that role. This role will be assumed by Lambda function to launch the instance.
